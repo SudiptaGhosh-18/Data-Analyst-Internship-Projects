@@ -24,8 +24,11 @@ I added a line chart to see the sales trend, bar charts for Brands and Categorie
 [https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/DAX]
 DAX Measures (Formulas):
 I made simple DAX measures for all card.
+
 Project Files in this Folder:
-Complete_Techno_Sales_Data-2
+
+Complete_Techno_Sales_Data-2  -[https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/Complete_Techno_Sales_Data-2.csv]
 data_cleaning.sql
 dax_measures.txt
 LAPTOP.pbix
+
