@@ -1,0 +1,6 @@
+Total Shows = COUNT(v_cleaned_netflix_data[show_id])
+
+Total Movies = CALCULATE(COUNT(v_cleaned_netflix_data[show_id]), v_cleaned_netflix_data[show_type] = "Movie")
+
+Total TV Shows = CALCULATE(COUNT(v_cleaned_netflix_data[show_id]), v_cleaned_netflix_data[show_type] = "TV Show")
+
