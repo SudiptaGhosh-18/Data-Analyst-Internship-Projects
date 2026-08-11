@@ -1,0 +1,7 @@
+Total Revenue = SUM(v_cleaned_sales_data[total_sales])
+
+Total Cost = SUM(v_cleaned_sales_data[total_cost])
+
+Total Quantity = SUM(v_cleaned_sales_data[quantity])
+
+Total_Profit = SUM(v_cleaned_sales_data[total_sales]) - SUM(v_cleaned_sales_data[total_cost])
