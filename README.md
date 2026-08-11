@@ -5,7 +5,7 @@ Cleaning and Interactive Power BI Dashboard for Raw Data.
 TASK-1
 
 
-[SALES ANALYSIS]:-
+[SALES ANALYSIS/https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/COMPUTER_SALES_DASHBOARD.png]:-
 
 My First Data Analyst Internship Project
 Hi everyone! This is my project submission for Task 1 of my Data Analyst Internship. In this project, I have cleaned a raw E-commerce sales dataset using SQL and then created a beautiful dashboard in Power BI.
