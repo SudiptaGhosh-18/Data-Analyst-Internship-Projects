@@ -8,6 +8,8 @@ My First Data Analyst Internship Project
 Hi everyone! This is my project submission for Task 1 of my Data Analyst Internship. In this project, I have cleaned a raw E-commerce sales dataset using SQL and then created a beautiful dashboard in Power BI.
 
 What I did in this project:
+[https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/cleaning.sql]
+
 Data Cleaning in SQL:
 I imported the raw CSV data into my SQL database.
 I found that there were many empty rows at the bottom of the sheet, so I removed them using a WHERE clause.
