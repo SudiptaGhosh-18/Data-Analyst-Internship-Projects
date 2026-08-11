@@ -19,6 +19,9 @@ Power BI Dashboard Design:
 I connected Power BI to my clean SQL view.
 I designed the layout with a blue theme and added 5 KPI cards at the top.
 I added a line chart to see the sales trend, bar charts for Brands and Categories, and a donut chart for Supervisors.
+
+
+[https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/DAX]
 DAX Measures (Formulas):
 I made simple DAX measures for all card.
 Project Files in this Folder:
