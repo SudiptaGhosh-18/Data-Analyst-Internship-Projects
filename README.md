@@ -65,3 +65,58 @@ Cleaning and Interactive Power BI Dashboard for Raw Data.
 
 
 
+
+
+  # Mobile Sales Performance Analysis
+
+An entry-level Business Intelligence project completed during my Data Analytics Internship. This project transforms raw smartphone retail data into visual metrics using Power BI Desktop to assist with strategic sales planning.
+
+## EXCEL OR RAW DATA
+[MOBILE SALES RAW DATA](https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx)
+
+## Dashboard Preview
+
+[Mobile Sales Dashboard](https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/mobile_sales.png)
+
+
+## Core KPIs
+
+* Total Revenue: 10K
+* Total Units Sold: 19K Units
+* Total Customer Footfall: 3.835K
+* Average Score: 14K
+
+---
+
+## Visual Breakdowns
+
+### 1. Brand Performance
+* Apple: 162M
+* Samsung: 160M
+* OnePlus: 154M
+* Vivo: 150M
+* Xiaomi: 144M
+
+### 2. Product Volume Metrics
+* Most models generate stable sale velocities moving between 1.1K and 1.4K units.
+* High volume variants include specific lines from iPhone, Vivo Y-Series, and OnePlus.
+
+### 3. Payment Channel Analysis
+* Debit Card: 202M (26.22%)
+* Cash: 196M (25.45%)
+* Credit Card: 187M (24.27%)
+* UPI: 185M (24.06%)
+
+### 4. Regional Revenue Split
+* Delhi: 0.20bn (Primary Market)
+* Mumbai: 0.13bn (Secondary Market)
+* Tier-2 Cities (Ranchi, Chennai, Rajkot, etc.): Consistent baselines between 0.02bn and 0.03bn.
+
+---
+
+## Technical Stack
+
+* Application: Power BI Desktop.
+
+
+
