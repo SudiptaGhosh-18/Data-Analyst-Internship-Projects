@@ -67,7 +67,7 @@ Cleaning and Interactive Power BI Dashboard for Raw Data.
 
 
 
-  # Mobile Sales Performance Analysis
+  # Mobile Sales Performance Analysis   TASK-2
 
 An entry-level Business Intelligence project completed during my Data Analytics Internship. This project transforms raw smartphone retail data into visual metrics using Power BI Desktop to assist with strategic sales planning.
 
