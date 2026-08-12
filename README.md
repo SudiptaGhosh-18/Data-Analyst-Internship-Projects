@@ -56,10 +56,10 @@ Cleaning and Interactive Power BI Dashboard for Raw Data.
 
 
 ### Project Files in this Folder: 
-- [`raw_dataset.csv` ](https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/datalab_export_2026-08-11%2019_05_29.xlsx)
-- `data_cleaning.sql` 
+- [`netflix_dataset.csv` ]()
+- `data_cleaning2.sql` 
 - `dax_measures.txt` 
-- `sales_dashboard.pbix`
+- `netflix_dashboard.pbix`
 
   [DASHBOARD ](https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/NETFLIX.png)
 
