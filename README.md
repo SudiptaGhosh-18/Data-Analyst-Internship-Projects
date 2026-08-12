@@ -22,7 +22,7 @@ Cleaning and Interactive Power BI Dashboard for Raw Data.
 - For the **5th Card (Total_Profit)**, I did not use any columns directly. Instead, I wrote a custom formula: `SUM of Sales minus SUM of Cost` to get the exact net profit.
 
 ### Project Files in this Folder:
-- `raw_dataset.csv`
+- [`raw_dataset.csv`](Complete_Techno_Sales_Data-2.csv)
 - `data_cleaning.sql` 
 - `dax_measures.txt` 
 - `sales_dashboard.pbix` 
