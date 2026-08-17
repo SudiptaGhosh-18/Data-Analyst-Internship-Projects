@@ -4,14 +4,15 @@
 This Python script generates exploratory data analysis (EDA) plots to help understand sales distributions, outliers, correlations, and relationships in your dataset.
 
 ## Setup & File Path
+DATASET : (https://github.com/SudiptaGhosh-18/Data-Analyst-Internship-Projects/blob/main/python/Complete_Techno_Sales_Data-2.csv)
 
-Ensure your dataset file is named `Complete_Techno_Sales_Data-2.csv` and is uploaded to your working directory. If you are using Google Colab, upload it directly to the `/content/` folder.
+Dataset file is named `Complete_Techno_Sales_Data-2.csv` and is uploaded working directory. I using Google Colab, upload it directly to the `/content/` folder.
 
-## Generated Plots
+## Generated Things
 
 The script automatically generates up to four visual insights:
 
 1. Histograms: Shows the frequency distribution of Sales and Quantity to see where most transactions fall.
 2. Boxplots: Identifies the spread, medians, and potential data outliers for Cost and Sales.
 3. Correlation Heatmap: Displays a grid of numbers from -1 to 1 showing how strongly numeric variables relate to each other.
-4. Scatter Plot: Explores the relationship between the last two numeric columns in the dataset, color-coded by product **Category** (if available).
+4. Scatter Plot: Explores the relationship between the last two numeric columns in the dataset, color-coded by product Category.
